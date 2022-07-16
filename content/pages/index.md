@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: Cyber Risk Management
+    title: Cyber Risk Management Advising
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
