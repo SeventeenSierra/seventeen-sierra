@@ -9,7 +9,7 @@ excerpt: >-
   the sea has to offer, nothing more, and no cheating.
 featuredImage:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/christina-wocintechchat-com-bPVM4nOy0Rg-unsplash.jpg
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
