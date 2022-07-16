@@ -53,7 +53,7 @@
     "onPrimary": "#ffffff",
     "secondary": "#8168B3",
     "onSecondary": "#Deaeec",
-    "complementary": "#EDEDED",
+    "complementary": "#f5f5f5",
     "onComplementary": "#Deaeec",
     "complementaryAlt": "#215462",
     "onComplementaryAlt": "#EAECEB",
