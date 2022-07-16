@@ -158,7 +158,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/mars-sector-6-IgUR1iX0mqM-unsplash.jpg
+      url: /images/patrick-perkins-ETRPjvb0KM0-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
