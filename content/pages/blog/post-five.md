@@ -8,7 +8,7 @@ excerpt: >-
   could ever have.
 featuredImage:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
   altText: Post Image
 media:
   type: ImageBlock
