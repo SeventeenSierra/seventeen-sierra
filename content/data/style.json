@@ -44,7 +44,7 @@
         "letterSpacing": "normal"
     },
     "fontBody": "fontSecondary",
-    "main": "#F2f1F3",
+    "main": "#F2F1F3",
     "light": "#ffffff",
     "onLight": "#000000",
     "dark": "#333333",
