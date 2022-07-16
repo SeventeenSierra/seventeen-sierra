@@ -158,7 +158,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/thisisengineering-raeng-8hgmG03spF4-unsplash.jpg
+      url: /images/mars-sector-6-IgUR1iX0mqM-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
