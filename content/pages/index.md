@@ -31,7 +31,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash.jpg
+      url: /images/thisisengineering-raeng-8hgmG03spF4-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
