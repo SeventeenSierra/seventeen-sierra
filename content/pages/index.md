@@ -17,7 +17,7 @@ sections:
         borderStyle: solid
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-d
+    colors: colors-b
     backgroundSize: inset
     title: Cyber Risk Management Advising
     subtitle: Critical Thinking to protect Critical Assets
