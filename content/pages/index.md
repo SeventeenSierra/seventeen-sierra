@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: Cyber Risk Management Advising
-    subtitle: Fresh. Better. Faster.
+    subtitle: Critical Thinking to protect Critical Assets
     actions:
       - type: Button
         label: Get Started
