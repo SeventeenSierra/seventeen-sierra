@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Seventeen Sierra
 layout: PageLayout
 sections:
   - type: DividerSection
