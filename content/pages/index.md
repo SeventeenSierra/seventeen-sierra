@@ -123,6 +123,127 @@ sections:
         justifyContent: center
       text:
         textAlign: center
+  - type: FeaturedItemsSection
+    colors: colors-d
+    elementId: ''
+    items:
+      - type: FeaturedItem
+        title: Projects
+        text: >
+          SeventeenSierra strives to alleviate the mundane, repetitive stuff
+          related to cyber risk management. We intend to automate processes by
+          looking for ways to make things just a little easier by developing
+          tools so that people can focus their energy on the real tough stuff.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        styles:
+          title:
+            textAlign: left
+          subtitle:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+          text:
+            textAlign: left
+          actions:
+            justifyContent: flex-start
+        actions:
+          - type: Button
+            label: Explore Projects
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+      - type: FeaturedItem
+        elementId: ''
+        title: Writings
+        subtitle: ''
+        text: >
+          Follow SeventeenSierra as we explore the world of cyber risk
+          management from a perspective of human centeredness. Providing reviews
+          of long accepted practices and opinions on emerging topics.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        actions:
+          - type: Button
+            label: Read Posts
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        elementId: ''
+        title: Presentations
+        subtitle: ''
+        text: >
+          SeventeenSierra spreads the word about cyber risk management
+          frequently and passionately. The presentations vary from speaking
+          engagements to webinars to podcasts.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        actions:
+          - type: Button
+            label: View Presentations
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    columns: 3
+    spacingX: 16
+    spacingY: 16
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: center
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+      actions:
+        justifyContent: center
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
@@ -248,127 +369,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-d
-    elementId: ''
-    items:
-      - type: FeaturedItem
-        title: Projects
-        text: >
-          SeventeenSierra strives to alleviate the mundane, repetitive stuff
-          related to cyber risk management. We intend to automate processes by
-          looking for ways to make things just a little easier by developing
-          tools so that people can focus their energy on the real tough stuff.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-        styles:
-          title:
-            textAlign: left
-          subtitle:
-            fontWeight: 400
-            fontStyle: normal
-            textAlign: left
-          text:
-            textAlign: left
-          actions:
-            justifyContent: flex-start
-        actions:
-          - type: Button
-            label: Explore Projects
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-      - type: FeaturedItem
-        elementId: ''
-        title: Writings
-        subtitle: ''
-        text: >
-          Follow SeventeenSierra as we explore the world of cyber risk
-          management from a perspective of human centeredness. Providing reviews
-          of long accepted practices and opinions on emerging topics.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-        actions:
-          - type: Button
-            label: Read Posts
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        elementId: ''
-        title: Presentations
-        subtitle: ''
-        text: >
-          SeventeenSierra spreads the word about cyber risk management
-          frequently and passionately. The presentations vary from speaking
-          engagements to webinars to podcasts.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-        actions:
-          - type: Button
-            label: View Presentations
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
-    actions: []
-    columns: 3
-    spacingX: 16
-    spacingY: 16
-    enableHover: false
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-      actions:
-        justifyContent: center
 addTitleSuffix: true
 metaTags: []
 ---
