@@ -129,7 +129,7 @@
                 "type": "Link",
                 "label": "Projects",
                 "altText": "",
-                "url": "/",
+                "url": "/projects",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
