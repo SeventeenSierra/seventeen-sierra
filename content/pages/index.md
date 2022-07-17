@@ -196,7 +196,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeatureHighlightSection
-    colors: colors-c
+    colors: colors-d
     elementId: ''
     backgroundSize: inset
     title: Success @ SeventeenSierra
