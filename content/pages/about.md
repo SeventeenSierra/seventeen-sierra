@@ -44,9 +44,9 @@ sections:
         textAlign: left
   - elementId: ''
     colors: colors-b
-    quote: >-
-      “This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her.”
+    quote: >
+      "Everyone hates compliance-based security until we ask them to do
+      risk-based security"
     backgroundImage:
       type: BackgroundImage
       url: /images/thisisengineering-raeng-8hgmG03spF4-unsplash.jpg
