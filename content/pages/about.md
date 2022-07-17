@@ -19,13 +19,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: 'About Seventeen Sierra, LLC'
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
-
-
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+    text: "**Seventeen Sierra,  is a IT Security consultancy company that helps clients improve their IT Governance.**\_We bring empathy forward security specialists together with internal corporate IT offices to achieve policy that is achievable and practical for both compliance and security purposes.  We give clients confidence that they have the right security policies implemented to meet the demands of their mission and the needs of their users.\n"
     styles:
       self:
         height: auto
