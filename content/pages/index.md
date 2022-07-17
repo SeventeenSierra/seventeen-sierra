@@ -119,11 +119,6 @@ sections:
           SeventeenSierra spreads the word about cyber risk management
           frequently and passionately. The presentations vary from speaking
           engagements to webinars to podcasts.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
         actions:
           - type: Button
             label: View Presentations
