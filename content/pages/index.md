@@ -67,6 +67,8 @@ sections:
             textAlign: left
           actions:
             justifyContent: flex-start
+          self:
+            borderRadius: medium
         actions:
           - type: Button
             label: Explore Projects
