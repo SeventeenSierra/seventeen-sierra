@@ -11,7 +11,7 @@ sections:
     colors: colors-d
     elementId: ''
     title: Advocacy
-    subtitle: The section subtitle
+    subtitle: 'The things that matter to Seventeen Sierra, LLC'
     items:
       - type: FeaturedItem
         title: Item Title
