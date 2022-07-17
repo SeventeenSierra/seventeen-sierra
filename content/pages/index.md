@@ -114,7 +114,7 @@ sections:
           - type: Button
             label: View Presentations
             altText: ''
-            url: /presentation
+            url: /presentations
             showIcon: false
             icon: arrowRight
             iconPosition: right
