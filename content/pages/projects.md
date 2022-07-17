@@ -10,7 +10,6 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
-    title: 'Over time, Seventeen Sierra, LLC will publish projects'
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
