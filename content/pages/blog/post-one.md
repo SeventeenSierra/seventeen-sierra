@@ -8,7 +8,7 @@ excerpt: >-
   eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpg
+  url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
   altText: Post thumbnail image
 media:
   type: ImageBlock
