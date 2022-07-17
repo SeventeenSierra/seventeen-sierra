@@ -31,7 +31,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/jacob-stone-RymM9fOusVg-unsplash.jpg
+      url: /images/mitchell-luo-Or3wN-a921Y-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
