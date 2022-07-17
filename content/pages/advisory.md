@@ -20,11 +20,6 @@ sections:
       lasting results in a fraction of the time. 
     actions:
       - type: Button
-        label: Get Started
-        url: /
-        style: primary
-        elementId: hero-main-button
-      - type: Button
         label: Learn More
         url: /
         style: secondary
