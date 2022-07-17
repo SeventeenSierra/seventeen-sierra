@@ -2,49 +2,6 @@
 title: Seventeen Sierra
 layout: PageLayout
 sections:
-  - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-e
-    backgroundSize: inset
-    title: Cybersecurity Advisory
-    subtitle: >-
-      Central hub for advice, musings and opinions related to cybersecurity.
-      Content generated from a perspective of cyber risk management.
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/OR69HE0.jpg
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 85
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-20
-          - pb-96
-          - pr-9
-          - pl-9
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
@@ -151,6 +108,49 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+  - type: HeroSection
+    elementId: homepage-hero-1
+    colors: colors-e
+    backgroundSize: inset
+    title: Cybersecurity Advisory
+    subtitle: >-
+      Central hub for advice, musings and opinions related to cybersecurity.
+      Content generated from a perspective of cyber risk management.
+    actions:
+      - type: Button
+        label: Get Started
+        url: 'https://www.stackbit.com/'
+        style: primary
+        iconPosition: right
+        icon: arrowRight
+        showIcon: true
+    backgroundImage:
+      type: BackgroundImage
+      url: /images/OR69HE0.jpg
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 85
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-20
+          - pb-96
+          - pr-9
+          - pl-9
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: HeroSection
     colors: colors-d
     elementId: ''
