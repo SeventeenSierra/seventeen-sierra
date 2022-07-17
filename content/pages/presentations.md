@@ -82,7 +82,7 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/christina-wocintechchat-com-VdQcDnad7OQ-unsplash.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
