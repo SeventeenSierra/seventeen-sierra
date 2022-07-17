@@ -270,8 +270,9 @@ sections:
       - type: FeaturedItem
         title: Advocacy
         text: >+
-          SeventeenSierra has several core beliefs that warrant having firms
-          positions on and taking every chance possible to advocate for them.
+          Seventeen Sierra, LLC  has several core beliefs that warrant having
+          firms positions on and taking every chance possible to advocate for
+          them.
 
 
           *   Security will never be done
