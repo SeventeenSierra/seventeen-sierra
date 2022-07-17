@@ -32,7 +32,7 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Diversity makes security better
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
