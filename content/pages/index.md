@@ -107,7 +107,7 @@ sections:
         title: Presentations
         subtitle: ''
         text: >
-          SeventeenSierra spreads the word about cyber risk management
+          Seventeen Sierra, LLC  spreads the word about cyber risk management
           frequently and passionately. The presentations vary from speaking
           engagements to webinars to podcasts.
         actions:
