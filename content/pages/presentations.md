@@ -51,7 +51,7 @@ sections:
   - type: MediaGallerySection
     colors: colors-d
     elementId: ''
-    title: Presentations
+    title: 'Cyber Risk Management presented by Seventeen Sierra, LLC'
     subtitle: ' A collection of presentations to bring human-centered security into your organization.'
     images:
       - type: ImageBlock
