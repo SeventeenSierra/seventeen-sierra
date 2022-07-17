@@ -28,7 +28,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero.webp
+      url: /images/christina-wocintechchat-com-bPVM4nOy0Rg-unsplash.jpg
       altText: Image alt text
     styles:
       self:
