@@ -82,7 +82,7 @@ sections:
     type: QuoteSection
   - elementId: ''
     variant: variant-c
-    colors: colors-d
+    colors: colors-a
     title: Our Team
     subtitle: >-
       We’re a group of proffesional fisherman & friends, who love exploring the
