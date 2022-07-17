@@ -70,7 +70,7 @@
                 "type": "Link",
                 "label": "Advocavy",
                 "altText": "",
-                "url": "/Advocacy",
+                "url": "/advocacy",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
