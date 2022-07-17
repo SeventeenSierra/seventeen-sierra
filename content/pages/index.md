@@ -31,7 +31,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/rianne-zuur-wHL9mI3HgdM-unsplash.jpg
+      url: /images/jacob-stone-RymM9fOusVg-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
