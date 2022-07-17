@@ -75,7 +75,7 @@ sections:
         textAlign: left
     type: QuoteSection
   - elementId: ''
-    colors: colors-b
+    colors: colors-c
     title: Our Team
     subtitle: >-
       Seventeen Sierra, LLC is a sole proprietor LLC based out of Washington,
