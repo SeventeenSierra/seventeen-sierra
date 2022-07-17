@@ -210,7 +210,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: secondary
-        url: /
+        url: /about
         label: Find our More
     backgroundImage:
       type: ImageBlock
