@@ -78,8 +78,8 @@ sections:
     colors: colors-b
     title: Our Team
     subtitle: >-
-      We’re a group of proffesional fisherman & friends, who love exploring the
-      seas and sharing our experiences with the world.
+      Seventeen Sierra, LLC is a sole proprietor LLC based out of Washington,
+      DC.
     people:
       - content/data/team/hilary-ouse.json
     styles:
