@@ -98,11 +98,6 @@ sections:
           Follow SeventeenSierra as we explore the world of cyber risk
           management from a perspective of human centeredness. Providing reviews
           of long accepted practices and opinions on emerging topics.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
         actions:
           - type: Button
             label: Read Posts
