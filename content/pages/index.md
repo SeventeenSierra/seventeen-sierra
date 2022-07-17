@@ -240,10 +240,13 @@ sections:
     items:
       - type: FeaturedItem
         title: Initiatives
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          *   Getting & keeping more women in Cybersecurity
+
+          *   Briding the gap between security and compliance
+
+          *   Automating cybersecurity as much as possible
+
         actions:
           - type: Button
             label: Learn more
