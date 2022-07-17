@@ -213,14 +213,6 @@
                 "label": "Facebook",
                 "url": "/",
                 "icon": "facebook"
-            },
-            {
-                "type": "Social",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "style": "link",
-                "elementId": ""
             }
         ],
         "legalLinks": [
