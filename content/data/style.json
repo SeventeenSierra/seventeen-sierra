@@ -43,7 +43,7 @@
         "case": "none",
         "letterSpacing": "normal"
     },
-    "fontBody": "fontSecondary",
+    "fontBody": "fontPrimary",
     "main": "#F2F1F3",
     "light": "#ffffff",
     "onLight": "#000000",
