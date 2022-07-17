@@ -263,7 +263,7 @@ sections:
             label: Learn more
             showIcon: true
             icon: arrowRight
-            url: /
+            url: /initiatives
             style: secondary
         styles:
           self:
