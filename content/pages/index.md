@@ -210,7 +210,7 @@ sections:
         label: Find our More
     backgroundImage:
       type: ImageBlock
-      url: /images/paulius-dragunas-uw_NWjC1mBE-unsplash.jpg
+      url: /images/jess-bailey-l3N9Q27zULw-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
