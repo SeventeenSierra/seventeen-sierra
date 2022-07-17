@@ -370,7 +370,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/17S_SM-Circle.png
       altText: Hero image
     backgroundImage: null
     styles:
