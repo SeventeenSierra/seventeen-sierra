@@ -52,5 +52,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Proje
+    title: Projects
 ---
