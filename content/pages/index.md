@@ -364,7 +364,7 @@ sections:
       the speciality code designator "17S" to describe cyber-skilled officers.
     actions:
       - type: Button
-        label: Join adventure
+        label: View Overview
         showIcon: true
         icon: arrowRight
         style: primary
