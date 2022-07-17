@@ -51,10 +51,11 @@ sections:
       - type: FeaturedItem
         title: Projects
         text: >
-          SeventeenSierra strives to alleviate the mundane, repetitive stuff
-          related to cyber risk management. We intend to automate processes by
-          looking for ways to make things just a little easier by developing
-          tools so that people can focus their energy on the real tough stuff.
+          Seventeen Sierra, LLC strives to alleviate the mundane, repetitive
+          stuff related to cyber risk management. We intend to automate
+          processes by looking for ways to make things just a little easier by
+          developing tools so that people can focus their energy on the real
+          tough stuff.
         styles:
           title:
             textAlign: left
