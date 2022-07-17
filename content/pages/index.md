@@ -75,7 +75,7 @@ sections:
           - type: Button
             label: Explore Projects
             altText: ''
-            url: /
+            url: /projects
             showIcon: false
             icon: arrowRight
             iconPosition: right
