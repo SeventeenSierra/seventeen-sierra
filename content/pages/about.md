@@ -49,7 +49,7 @@ sections:
       we thought we should highlight her.”
     backgroundImage:
       type: BackgroundImage
-      url: /images/bg.webp
+      url: /images/thisisengineering-raeng-8hgmG03spF4-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
