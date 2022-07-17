@@ -28,7 +28,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero.webp
+      url: /images/patrick-perkins-ETRPjvb0KM0-unsplash.jpg
       altText: Image alt text
     styles:
       self:
