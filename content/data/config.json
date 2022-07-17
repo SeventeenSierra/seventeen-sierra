@@ -149,7 +149,7 @@
                 "type": "Link",
                 "label": "Initiatives",
                 "altText": "",
-                "url": "/",
+                "url": "/initiatives",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
