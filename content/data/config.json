@@ -190,7 +190,8 @@
                 "label": "Contact us",
                 "url": "mailto:info@lorem.mail",
                 "altText": "",
-                "iconPosition": "right"
+                "iconPosition": "right",
+                "showIcon": false
             }
         ],
         "socialLinks": [
