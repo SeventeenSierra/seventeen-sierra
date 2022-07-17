@@ -194,7 +194,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-c
     elementId: ''
-    backgroundSize: full
+    backgroundSize: inset
     title: Success @ SeventeenSierra
     subtitle: ''
     text: >
