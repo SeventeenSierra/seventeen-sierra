@@ -94,7 +94,6 @@ sections:
     quote: >
       A collection of presentations to bring human-centered security into your
       organization.
-    name: Isabelle Parks
     title: Head chef at Parks
     styles:
       self:
