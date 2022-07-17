@@ -15,10 +15,10 @@ sections:
     items:
       - type: FeaturedItem
         title: Security will never be done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Security is an ongoing process that takes ongoing resources. The
+          threats are constantly changing requiring the measures to protect
+          against the threats to also have to change. 
         styles:
           title:
             textAlign: left
