@@ -51,7 +51,10 @@ sections:
     backgroundSize: full
     title: We do fishing differently
     subtitle: Fresh. Better. Faster.
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: |+
+      Getting & keeping more women in Cybersecurity
+
+
     actions:
       - type: Button
         label: Coming soon
