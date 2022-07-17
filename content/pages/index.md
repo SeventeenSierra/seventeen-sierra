@@ -279,7 +279,7 @@ sections:
             justifyContent: flex-start
         actions:
           - type: Button
-            label: Learn more
+            label: Explore Projects
             altText: ''
             url: /
             showIcon: false
