@@ -264,7 +264,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Smarter
+        title: Advocacy
         text: >+
           SeventeenSierra has several core beliefs that warrant having firms
           positions on and taking every chance possible to advocate for them.
