@@ -1,5 +1,4 @@
 ---
-title: Seventeen Sierra
 layout: PageLayout
 sections:
   - type: HeroSection
