@@ -191,7 +191,6 @@
                 "altText": "",
                 "url": "/contact",
                 "showIcon": false,
-                "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
