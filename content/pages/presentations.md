@@ -10,7 +10,7 @@ sections:
   - type: HeroSection
     colors: colors-d
     title: We do cyber differently
-    subtitle: Fresh. Better. Faster.
+    subtitle: Innovative. Agile. Empathetic.
     actions:
       - type: Button
         label: Get Started
