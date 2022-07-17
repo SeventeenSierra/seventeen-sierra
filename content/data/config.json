@@ -176,16 +176,6 @@
                 "elementId": ""
             },
             {
-                "type": "Link",
-                "label": "Advocacy",
-                "altText": "",
-                "url": "/advocacy",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
                 "type": "Button",
                 "label": "Contact Us",
                 "altText": "",
@@ -194,6 +184,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Advocacy",
+                "altText": "",
+                "url": "/advocacy",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
                 "elementId": ""
             }
         ],
