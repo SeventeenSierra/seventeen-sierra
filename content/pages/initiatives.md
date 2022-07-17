@@ -23,7 +23,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/lorenzo-herrera-p0j-mE6mGo4-unsplash-a85e1b6b.jpg
       altText: Hero image
     backgroundImage: null
     styles:
