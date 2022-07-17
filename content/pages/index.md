@@ -337,11 +337,7 @@ sections:
         styles:
           self:
             textAlign: left
-    actions:
-      - type: Button
-        label: Apply Now
-        url: '#'
-        style: primary
+    actions: []
     columns: 3
     spacingX: 16
     spacingY: 16
