@@ -33,7 +33,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/mitchell-luo-Or3wN-a921Y-unsplash.jpg
+      url: /images/OR69HE0.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
