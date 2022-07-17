@@ -52,7 +52,7 @@ sections:
     colors: colors-d
     elementId: ''
     title: Presentations
-    subtitle: This is the subtitle
+    subtitle: 'Cyber Risk Management presented by Seventeen Sierra, LLC'
     images:
       - type: ImageBlock
         url: /images/christina-wocintechchat-com-jzonFmreWok-unsplash.jpg
