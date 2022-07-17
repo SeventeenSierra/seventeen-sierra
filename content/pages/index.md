@@ -236,7 +236,7 @@ sections:
     colors: colors-d
     elementId: ''
     title: Cybersecurity Transformation
-    subtitle: ''
+    subtitle: Creativity is the key to cybersecurity
     items:
       - type: FeaturedItem
         title: Faster
