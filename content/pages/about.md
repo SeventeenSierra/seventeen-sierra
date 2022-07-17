@@ -79,7 +79,9 @@ sections:
     elementId: ''
     variant: variant-c
     title: About us
-    subtitle: Featured people section example
+    subtitle: >-
+      The people of Seventeen Sierra, LLC that believe Cyber Risk Management
+      doesn't need to be painful.
     actions: []
     people:
       - content/data/team/hilary-ouse.json
