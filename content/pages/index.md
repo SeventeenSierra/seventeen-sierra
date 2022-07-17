@@ -302,7 +302,7 @@ sections:
           altText: Item image
         actions:
           - type: Button
-            label: Learn more
+            label: Read Posts
             altText: ''
             url: /
             showIcon: false
