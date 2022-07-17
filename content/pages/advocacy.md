@@ -10,7 +10,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
-    title: Featured Items
+    title: Advocacy
     subtitle: The section subtitle
     items:
       - type: FeaturedItem
