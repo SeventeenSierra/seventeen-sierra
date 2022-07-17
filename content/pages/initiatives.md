@@ -101,7 +101,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/bangkit-ristant-wp3FyufPwyA-unsplash.jpg
+      url: /images/luca-bravo-XJXWbfSo2f0-unsplash.jpg
       altText: Hero image
     backgroundImage: null
     styles:
