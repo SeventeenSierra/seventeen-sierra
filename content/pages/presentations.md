@@ -89,25 +89,4 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: QuoteSection
-    colors: colors-d
-    quote: >
-      A collection of presentations to bring human-centered security into your
-      organization.
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
 ---
