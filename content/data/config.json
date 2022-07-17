@@ -186,14 +186,6 @@
                 "elementId": ""
             },
             {
-                "type": "Link",
-                "label": "Contact us",
-                "url": "mailto:info@seventeensierra.com",
-                "altText": "",
-                "iconPosition": "right",
-                "showIcon": false
-            },
-            {
                 "type": "Button",
                 "label": "Contact Us",
                 "altText": "",
