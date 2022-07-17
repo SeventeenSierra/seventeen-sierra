@@ -184,16 +184,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Button",
-                "label": "Contact Us",
-                "altText": "",
-                "url": "/contact",
-                "showIcon": false,
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
             }
         ],
         "socialLinks": [
