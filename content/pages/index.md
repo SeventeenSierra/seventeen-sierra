@@ -210,7 +210,7 @@ sections:
         label: Find our More
     backgroundImage:
       type: ImageBlock
-      url: /images/jess-bailey-l3N9Q27zULw-unsplash.jpg
+      url: /images/sincerely-media-cuEpo721ACY-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
