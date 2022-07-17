@@ -158,7 +158,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/patrick-perkins-ETRPjvb0KM0-unsplash.jpg
+      url: /images/thisisengineering-raeng-8hgmG03spF4-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
