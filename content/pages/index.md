@@ -290,7 +290,7 @@ sections:
             textAlign: left
     actions: []
     columns: 2
-    spacingX: 16
+    spacingX: 46
     spacingY: 16
     enableHover: false
     styles:
