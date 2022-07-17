@@ -62,7 +62,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/thisisengineering-raeng-8hgmG03spF4-unsplash.jpg
       altText: Hero image
     backgroundImage: null
     styles:
