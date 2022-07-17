@@ -251,7 +251,6 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
-    subtitle: The section subtitle
     items:
       - type: FeaturedItem
         title: Projects
