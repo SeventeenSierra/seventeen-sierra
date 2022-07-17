@@ -93,7 +93,7 @@ sections:
           - type: Button
             label: Read Posts
             altText: ''
-            url: /
+            url: /blog
             showIcon: false
             icon: arrowRight
             iconPosition: right
