@@ -210,7 +210,7 @@ sections:
         label: Find our More
     backgroundImage:
       type: ImageBlock
-      url: /images/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg
+      url: /images/gradienta--gmycsIe7FU-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
