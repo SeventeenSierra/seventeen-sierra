@@ -89,7 +89,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Automating cybersecurity as much as possible
-    subtitle: Fresh. Better. Faster.
     text: ''
     actions:
       - type: Button
