@@ -104,6 +104,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPeopleSection
+    variant: variant-b
   - type: ContactSection
     colors: colors-d
     title: Join our club
