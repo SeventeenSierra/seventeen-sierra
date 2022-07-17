@@ -9,7 +9,7 @@ title: Presentations
 sections:
   - type: HeroSection
     colors: colors-d
-    title: We do fishing differently
+    title: We do cyber differently
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
