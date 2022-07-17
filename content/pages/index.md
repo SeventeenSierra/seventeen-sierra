@@ -164,6 +164,46 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+  - type: HeroSection
+    colors: colors-d
+    elementId: ''
+    backgroundSize: full
+    title: SeventeenSierra ||17Sierra ||17S
+    text: >
+      Around 2015 (give or take a few years) the United States Air Force used
+      the speciality code designator "17S" to describe cyber-skilled officers.
+    actions:
+      - type: Button
+        label: View Overview
+        showIcon: true
+        icon: arrowRight
+        style: primary
+        url: /
+    media:
+      type: ImageBlock
+      url: /images/17S_SM-Circle.png
+      altText: Hero image
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - elementId: ''
     colors: colors-c
     variant: variant-a
@@ -354,46 +394,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: HeroSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: full
-    title: SeventeenSierra ||17Sierra ||17S
-    text: >
-      Around 2015 (give or take a few years) the United States Air Force used
-      the speciality code designator "17S" to describe cyber-skilled officers.
-    actions:
-      - type: Button
-        label: View Overview
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
-    media:
-      type: ImageBlock
-      url: /images/17S_SM-Circle.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 addTitleSuffix: true
 metaTags: []
 ---
