@@ -277,6 +277,16 @@ sections:
             textAlign: left
           actions:
             justifyContent: flex-start
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
       - type: FeaturedItem
         elementId: ''
         title: Writings
