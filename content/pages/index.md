@@ -235,7 +235,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
-    title: Key value propositions
+    title: Cybersecurity Transformation
     subtitle: ''
     items:
       - type: FeaturedItem
