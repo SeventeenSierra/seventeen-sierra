@@ -176,7 +176,7 @@ sections:
           - pt-36
           - pb-72
           - pr-4
-          - pl-4
+          - pl-28
         justifyContent: flex-start
       title:
         textAlign: left
