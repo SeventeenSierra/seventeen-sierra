@@ -279,7 +279,7 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Writings
         subtitle: ''
         text: >
           Follow SeventeenSierra as we explore the world of cyber risk
