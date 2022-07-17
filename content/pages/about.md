@@ -43,7 +43,7 @@ sections:
       risk-based security"
     backgroundImage:
       type: BackgroundImage
-      url: /images/thisisengineering-raeng-8hgmG03spF4-unsplash.jpg
+      url: /images/christina-wocintechchat-com-VdQcDnad7OQ-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
