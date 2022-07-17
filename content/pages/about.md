@@ -75,7 +75,6 @@ sections:
         textAlign: left
     type: QuoteSection
   - elementId: ''
-    variant: variant-c
     colors: colors-b
     title: Our Team
     subtitle: >-
