@@ -31,7 +31,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/thisisengineering-raeng-8hgmG03spF4-unsplash.jpg
+      url: /images/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
