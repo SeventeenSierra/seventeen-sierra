@@ -203,7 +203,7 @@ sections:
       Framework and the Risk Management Framework.
     actions:
       - type: Button
-        label: Join adventure
+        label: FIND
         showIcon: true
         icon: arrowRight
         style: secondary
