@@ -139,7 +139,7 @@
                 "type": "Link",
                 "label": "Presentations",
                 "altText": "",
-                "url": "/",
+                "url": "/presentations",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
