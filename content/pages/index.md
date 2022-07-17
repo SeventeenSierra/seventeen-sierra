@@ -69,6 +69,7 @@ sections:
             justifyContent: flex-start
           self:
             borderRadius: medium
+            borderColor: border-secondary
         actions:
           - type: Button
             label: Explore Projects
