@@ -240,10 +240,16 @@ sections:
     items:
       - type: FeaturedItem
         title: Initiatives
-        text: |+
+        text: >+
+          SeventeenSierra chooses to invest time, energy and resources on
+          initiatives that need our support.
+
+
           *   Getting & keeping more women in Cybersecurity
 
+
           *   Briding the gap between security and compliance
+
 
           *   Automating cybersecurity as much as possible
 
