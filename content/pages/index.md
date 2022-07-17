@@ -120,7 +120,7 @@ sections:
           self:
             textAlign: left
     actions: []
-    columns: 2
+    columns: 3
     spacingX: 16
     spacingY: 16
     enableHover: false
