@@ -31,7 +31,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg
+      url: /images/rianne-zuur-wHL9mI3HgdM-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
