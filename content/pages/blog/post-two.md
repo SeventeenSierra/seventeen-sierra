@@ -1,5 +1,5 @@
 ---
-title: Fishing from the coast
+title: 'Not everything is critical, right?'
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
