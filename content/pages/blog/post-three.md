@@ -8,7 +8,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/bg.webp
+  url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
   altText: Post Image
 media:
   type: ImageBlock
