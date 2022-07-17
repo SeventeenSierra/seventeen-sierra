@@ -11,7 +11,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: We do fishing differently
+    title: Bridging the gap between security and compliance
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
