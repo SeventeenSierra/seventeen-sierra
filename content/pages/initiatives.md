@@ -88,7 +88,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: We do fishing differently
+    title: Automating cybersecurity as much as possible
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
