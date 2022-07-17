@@ -14,7 +14,7 @@ sections:
     subtitle: 'The things that matter to Seventeen Sierra, LLC'
     items:
       - type: FeaturedItem
-        title: Item Title
+        title: Security will never be done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
