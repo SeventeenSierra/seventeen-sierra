@@ -195,7 +195,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "Contact Us",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
