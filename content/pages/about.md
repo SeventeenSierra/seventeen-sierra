@@ -74,6 +74,32 @@ sections:
         fontStyle: normal
         textAlign: left
     type: QuoteSection
+  - type: FeaturedPeopleSection
+    colors: colors-d
+    elementId: ''
+    variant: variant-c
+    title: About us
+    subtitle: Featured people section example
+    actions: []
+    people:
+      - content/data/team/desmond-eagle.json
+      - content/data/team/hilary-ouse.json
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
   - elementId: ''
     colors: colors-a
     title: Our Team
@@ -188,31 +214,5 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedPeopleSection
-    colors: colors-d
-    elementId: ''
-    variant: variant-c
-    title: About us
-    subtitle: Featured people section example
-    actions: []
-    people:
-      - content/data/team/desmond-eagle.json
-      - content/data/team/hilary-ouse.json
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
 addTitleSuffix: true
 ---
