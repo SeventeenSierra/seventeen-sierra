@@ -35,11 +35,7 @@ sections:
             textAlign: left
           actions:
             justifyContent: flex-start
-    actions:
-      - type: Button
-        label: Learn More
-        url: '#'
-        style: secondary
+    actions: []
     columns: 3
     spacingX: 16
     spacingY: 16
