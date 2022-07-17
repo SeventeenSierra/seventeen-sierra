@@ -328,7 +328,7 @@ sections:
           altText: Item image
         actions:
           - type: Button
-            label: Learn more
+            label: View Presentations
             altText: ''
             url: /
             showIcon: false
