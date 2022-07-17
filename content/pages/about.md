@@ -100,37 +100,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - elementId: ''
-    colors: colors-a
-    title: Our Team
-    subtitle: >-
-      Seventeen Sierra, LLC is a sole proprietor LLC based out of Washington,
-      DC.
-    people:
-      - content/data/team/hilary-ouse.json
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-72
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: FeaturedPeopleSection
-    variant: variant-b
   - type: ContactSection
     colors: colors-d
     title: Join our club
