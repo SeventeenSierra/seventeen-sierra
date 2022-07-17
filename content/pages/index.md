@@ -296,7 +296,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Presentations
         subtitle: ''
         text: >
           SeventeenSierra spreads the word about cyber risk management
