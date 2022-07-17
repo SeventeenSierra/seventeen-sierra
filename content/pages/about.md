@@ -89,7 +89,6 @@ sections:
       seas and sharing our experiences with the world.
     people:
       - content/data/team/hilary-ouse.json
-      - content/data/team/hugh-saturation.json
     styles:
       self:
         height: auto
