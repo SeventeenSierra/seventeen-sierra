@@ -256,10 +256,11 @@ sections:
     items:
       - type: FeaturedItem
         title: Item Title
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          SeventeenSierra strives to alleviate the mundane, repetitive stuff
+          related to cyber risk management. We intend to automate processes by
+          looking for ways to make things just a little easier by developing
+          tools so that people can focus their energy on the real tough stuff.
         featuredImage:
           type: ImageBlock
           url: >-
