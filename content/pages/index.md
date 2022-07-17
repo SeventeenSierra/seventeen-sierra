@@ -70,7 +70,7 @@ sections:
           self:
             borderRadius: none
             borderColor: border-secondary
-            borderStyle: solid
+            borderStyle: none
         actions:
           - type: Button
             label: Explore Projects
