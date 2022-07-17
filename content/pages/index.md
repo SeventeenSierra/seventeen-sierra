@@ -360,7 +360,9 @@ sections:
     backgroundSize: full
     title: SeventeenSierra ||17Sierra ||17S
     subtitle: Fresh. Better. Faster.
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: >
+      Around 2015 (give or take a few years) the United States Air Force used
+      the speciality code designator "17S" to describe cyber-skilled officers.
     actions:
       - type: Button
         label: Join adventure
