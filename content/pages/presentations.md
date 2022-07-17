@@ -78,7 +78,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/christina-wocintechchat-com-VdQcDnad7OQ-unsplash.jpg
+        url: /images/christina-wocintechchat-com-jzonFmreWok-unsplash.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
