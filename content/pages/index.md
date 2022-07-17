@@ -210,7 +210,7 @@ sections:
         label: Find our More
     backgroundImage:
       type: ImageBlock
-      url: /images/gradienta--gmycsIe7FU-unsplash.jpg
+      url: /images/paulius-dragunas-uw_NWjC1mBE-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
