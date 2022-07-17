@@ -342,10 +342,6 @@ sections:
         label: Apply Now
         url: '#'
         style: primary
-      - type: Button
-        label: Learn More
-        url: '#'
-        style: secondary
     columns: 3
     spacingX: 16
     spacingY: 16
