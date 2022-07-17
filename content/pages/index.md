@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-e
     backgroundSize: inset
-    title: Cyber Risk Management Advising
+    title: Cybersecurity Advisory
     subtitle: Critical Thinking to protect Critical Assets
     actions:
       - type: Button
