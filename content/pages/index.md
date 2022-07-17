@@ -245,7 +245,7 @@ sections:
       - type: FeaturedItem
         title: Initiatives
         text: >+
-          SeventeenSierra chooses to invest time, energy and resources on
+          Seventeen Sierra, LLC chooses to invest time, energy and resources on
           initiatives that need our support.
 
 
