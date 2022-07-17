@@ -44,7 +44,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
+        title: Security should be human centered
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
