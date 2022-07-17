@@ -18,11 +18,7 @@ sections:
       rapidly adapt to emerging threats. The approach is done collaboratively
       with relevant stakeholders in an empathetic fashion and produces long
       lasting results in a fraction of the time. 
-    actions:
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/christina-wocintechchat-com-bPVM4nOy0Rg-unsplash.jpg
