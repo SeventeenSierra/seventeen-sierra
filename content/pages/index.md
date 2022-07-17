@@ -86,7 +86,7 @@ sections:
         title: Writings
         subtitle: ''
         text: >
-          Follow SeventeenSierra as we explore the world of cyber risk
+          Follow Seventeen Sierra, LLC  as we explore the world of cyber risk
           management from a perspective of human centeredness. Providing reviews
           of long accepted practices and opinions on emerging topics.
         actions:
