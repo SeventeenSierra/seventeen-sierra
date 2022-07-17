@@ -70,6 +70,7 @@ sections:
           self:
             borderRadius: medium
             borderColor: border-secondary
+            borderStyle: double
         actions:
           - type: Button
             label: Explore Projects
