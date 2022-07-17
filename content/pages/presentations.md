@@ -86,7 +86,7 @@ sections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/mars-sector-6-IgUR1iX0mqM-unsplash.jpg
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
