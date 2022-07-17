@@ -12,7 +12,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Bridging the gap between security and compliance
-    subtitle: Fresh. Better. Faster.
     text: ''
     actions:
       - type: Button
