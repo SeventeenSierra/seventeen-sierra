@@ -264,13 +264,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        elementId: ''
-        subtitle: ''
-        actions: []
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: Advocacy
         text: >+
           SeventeenSierra has several core beliefs that warrant having firms
