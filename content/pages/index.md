@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: /contact
+        url: /advisory
         style: primary
         iconPosition: right
         icon: arrowRight
