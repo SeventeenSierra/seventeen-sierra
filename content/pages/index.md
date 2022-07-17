@@ -239,7 +239,7 @@ sections:
     subtitle: Creativity is the key to cybersecurity
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Initiatives
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
