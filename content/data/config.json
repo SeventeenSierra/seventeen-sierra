@@ -24,7 +24,7 @@
                 "type": "Link",
                 "label": "Advisory",
                 "altText": "",
-                "url": "/",
+                "url": "/advisory",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
