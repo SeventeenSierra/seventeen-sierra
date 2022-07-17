@@ -197,7 +197,10 @@ sections:
     backgroundSize: full
     title: Success @ SeventeenSierra
     subtitle: ''
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: >
+      SeventeenSierra is a hub for cybersecurity information. It is mainly
+      focused on cyber risk management, centered around the Cybersecurity
+      Framework and the Risk Management Framework.
     actions:
       - type: Button
         label: Join adventure
