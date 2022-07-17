@@ -101,7 +101,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/luca-bravo-XJXWbfSo2f0-unsplash.jpg
+      url: /images/mike-kononov-lFv0V3_2H6s-unsplash.jpg
       altText: Hero image
     backgroundImage: null
     styles:
