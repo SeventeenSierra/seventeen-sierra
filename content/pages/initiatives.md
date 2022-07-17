@@ -51,7 +51,6 @@ sections:
     backgroundSize: full
     title: Getting & keeping more women in Cybersecurity
     text: |+
-      Getting & keeping more women in Cybersecurity
 
 
     actions:
