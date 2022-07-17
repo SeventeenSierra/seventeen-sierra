@@ -210,7 +210,7 @@ sections:
         label: Find our More
     backgroundImage:
       type: ImageBlock
-      url: /images/hero-3.png
+      url: /images/thisisengineering-raeng-8hgmG03spF4-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
