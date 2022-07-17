@@ -69,11 +69,6 @@ sections:
           related to cyber risk management. We intend to automate processes by
           looking for ways to make things just a little easier by developing
           tools so that people can focus their energy on the real tough stuff.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
         styles:
           title:
             textAlign: left
