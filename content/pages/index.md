@@ -255,7 +255,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: FeaturedItem
-        title: Item Title
+        title: Projects
         text: >
           SeventeenSierra strives to alleviate the mundane, repetitive stuff
           related to cyber risk management. We intend to automate processes by
