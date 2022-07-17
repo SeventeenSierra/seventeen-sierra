@@ -169,7 +169,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: /about
     media:
       type: ImageBlock
       url: /images/17S_SM-Circle.png
