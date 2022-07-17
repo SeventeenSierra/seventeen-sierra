@@ -8,7 +8,6 @@ metaTags: []
 title: Initiatives
 sections:
   - type: HeroSection
-    elementId: homepage-hero-1
     colors: colors-d
     title: This Is A Big Hero Headline
     text: >-
