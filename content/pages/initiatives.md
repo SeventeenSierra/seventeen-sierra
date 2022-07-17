@@ -16,7 +16,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Join adventure
+        label: Coming soon
         showIcon: true
         icon: arrowRight
         style: primary
