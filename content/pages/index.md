@@ -251,7 +251,6 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
-    title: Featured Items
     subtitle: The section subtitle
     items:
       - type: FeaturedItem
