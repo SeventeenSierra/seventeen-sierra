@@ -155,7 +155,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Seventeen Sierra || 17Sierra || 17S
+    title: "Seventeen Sierra\_ \_ \_ \_ \_ \_17Sierra || 17S"
     text: >
       Around 2015 (give or take a few years) the United States Air Force used
       the speciality code designator "17S" to describe cyber-skilled officers.
