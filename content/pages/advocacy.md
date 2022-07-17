@@ -34,10 +34,9 @@ sections:
         elementId: ''
         title: Diversity makes security better
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          There are all kinds of attacks against systems and it takes all kinds
+          of people to think of ways to protect against them. 
         actions: []
         styles:
           self:
