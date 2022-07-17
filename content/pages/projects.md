@@ -10,11 +10,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Our approach to helping clients and the general public increase their corporate security and compliance. \_These projects range from micro to macro size; and are a snapshot of some of the aids we use in our approach towards helping our clients achieve their goals and exceed beyond their expectations.\n"
     actions:
       - type: Button
         label: Get Started
