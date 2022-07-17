@@ -50,7 +50,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Getting & keeping more women in Cybersecurity
-    subtitle: Fresh. Better. Faster.
     text: |+
       Getting & keeping more women in Cybersecurity
 
