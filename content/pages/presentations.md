@@ -91,9 +91,9 @@ sections:
         textAlign: center
   - type: QuoteSection
     colors: colors-d
-    quote: >-
-      "It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks."
+    quote: >
+      A collection of presentations to bring human-centered security into your
+      organization.
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
