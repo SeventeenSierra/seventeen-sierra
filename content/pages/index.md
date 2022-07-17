@@ -68,7 +68,7 @@ sections:
           actions:
             justifyContent: flex-start
           self:
-            borderRadius: medium
+            borderRadius: none
             borderColor: border-secondary
             borderStyle: double
         actions:
