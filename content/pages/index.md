@@ -20,7 +20,9 @@ sections:
     colors: colors-e
     backgroundSize: inset
     title: Cybersecurity Advisory
-    subtitle: Critical Thinking to protect Critical Assets
+    subtitle: >-
+      Central hub for advice, musings and opinions related to cybersecurity.
+      Content generated from a perspective of cyber risk management.
     actions:
       - type: Button
         label: Get Started
