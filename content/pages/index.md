@@ -58,71 +58,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - elementId: ''
-    colors: colors-c
-    variant: variant-a
-    title: Seasonal adventures
-    actions:
-      - type: Link
-        label: See all adventures
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    posts:
-      - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
-    showAuthor: false
-  - type: TextSection
-    colors: colors-e
-    variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      text:
-        textAlign: center
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
@@ -244,6 +179,71 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+  - elementId: ''
+    colors: colors-c
+    variant: variant-a
+    title: Seasonal adventures
+    actions:
+      - type: Link
+        label: See all adventures
+        url: /blog
+        showIcon: true
+        icon: arrowRight
+    posts:
+      - content/pages/blog/post-five.md
+      - content/pages/blog/post-four.md
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-28
+          - pb-48
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeaturedPostsSection
+    showDate: true
+    showExcerpt: true
+    showReadMoreLink: true
+    readMoreLinkLabel: Join adventure
+    showAuthor: false
+  - type: TextSection
+    colors: colors-e
+    variant: variant-a
+    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-36
+          - pr-4
+          - pl-4
+        justifyContent: center
+      text:
+        textAlign: center
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
