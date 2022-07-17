@@ -239,7 +239,7 @@ sections:
     subtitle: Creativity is the key to cybersecurity
     items:
       - type: FeaturedItem
-        title: Initiatives
+        title: Advocacy
         text: >+
           SeventeenSierra chooses to invest time, energy and resources on
           initiatives that need our support.
