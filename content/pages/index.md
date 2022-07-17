@@ -281,10 +281,10 @@ sections:
         elementId: ''
         title: Item Title
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Follow SeventeenSierra as we explore the world of cyber risk
+          management from a perspective of human centeredness. Providing reviews
+          of long accepted practices and opinions on emerging topics.
         featuredImage:
           type: ImageBlock
           url: >-
