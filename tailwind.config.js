@@ -36,7 +36,7 @@ module.exports = {
             },
             fontFamily: {
                 fontPrimary: ['Merriweather', 'sans-serif'],
-                fontSecondary: ['Roboto Mono', 'monospace']
+                fontSecondary: ['Open Sans', 'monospace']
             }
         }
     },
