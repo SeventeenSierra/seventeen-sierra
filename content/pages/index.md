@@ -207,7 +207,7 @@ sections:
         icon: arrowRight
         style: secondary
         url: /
-        label: 'Find '
+        label: Find our More
     backgroundImage:
       type: ImageBlock
       url: /images/hero-3.png
