@@ -53,7 +53,7 @@ sections:
             textAlign: left
     actions: []
     columns: 3
-    spacingX: 46
+    spacingX: 39
     spacingY: 16
     enableHover: false
     styles:
