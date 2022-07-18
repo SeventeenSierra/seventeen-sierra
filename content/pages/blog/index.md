@@ -25,9 +25,8 @@ bottomSections:
   - type: ContactSection
     colors: colors-e
     title: Sign up for post updates
-    text: >
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
+    text: |
+      We will notify you every time there is a new or  updated post. 
     form:
       type: FormBlock
       elementId: sign-up-form
