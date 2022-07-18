@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: 'About Seventeen Sierra, LLC'
-    text: "**Seventeen Sierra,  is a IT Security consultancy company that helps clients improve their IT Governance.**\_We bring empathy forward security specialists together with internal corporate IT offices to achieve policy that is achievable and practical for both compliance and security purposes.  We give clients confidence that they have the right security policies implemented to meet the demands of their mission and the needs of their users.\n"
+    text: "**Seventeen Sierra,  is an IT Security consultancy company that helps clients improve their IT Governance.**\_We bring empathy forward security specialists together with internal corporate IT offices to achieve policy that is achievable and practical for both compliance and security purposes.  We give clients confidence that they have the right security policies implemented to meet the demands of their mission and the needs of their users.\n"
     styles:
       self:
         height: auto
