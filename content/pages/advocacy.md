@@ -17,8 +17,8 @@ sections:
         title: Security will never be done
         text: >
           Security is an ongoing process that takes ongoing resources. The
-          threats are constantly changing requiring the measures to protect
-          against the threats to also have to change. 
+          threats are constantly changing requiring the measures that protect
+          against the threats to also have to change.
         styles:
           title:
             textAlign: left
