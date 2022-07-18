@@ -4,8 +4,8 @@ layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
 excerpt: >-
-  Deep sea fishing, also called offshore fishing. Nullam viverra justo arcu,
-  eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
+  Cyber Supply Chain Risk Management is a mature activity of any Cyber Security
+  Program and it takes fundamenntalss to already be established in practiced.
 featuredImage:
   type: ImageBlock
   url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
