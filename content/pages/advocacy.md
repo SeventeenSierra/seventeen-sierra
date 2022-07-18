@@ -54,7 +54,7 @@ sections:
     actions: []
     columns: 3
     spacingX: 43
-    spacingY: 16
+    spacingY: 22
     enableHover: false
     styles:
       self:
