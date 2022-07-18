@@ -45,8 +45,10 @@ sections:
         elementId: ''
         title: Security should be human centered
         subtitle: ''
-        text: |
-          Security should never be a blocker to a system. 
+        text: >
+          People are the ones using systems. Security should be centered around
+          the people; and people shouldn't have to be overly burdened to have to
+          centerd themselves around security. 
         actions: []
         styles:
           self:
