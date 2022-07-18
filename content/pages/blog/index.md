@@ -17,7 +17,7 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
-  readMoreLinkLabel: to read more
+  readMoreLinkLabel: Click to read more
 styles:
   title:
     textAlign: center
