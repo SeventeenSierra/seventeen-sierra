@@ -17,7 +17,6 @@ sections:
       - type: Button
         label: Coming soon
         showIcon: true
-        icon: arrowRight
         style: primary
         url: /
     media:
