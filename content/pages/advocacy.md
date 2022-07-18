@@ -8,7 +8,7 @@ metaTags: []
 title: Advocacy
 sections:
   - type: FeaturedItemsSection
-    colors: colors-c
+    colors: colors-e
     elementId: ''
     title: Advocacy
     subtitle: 'The things that matter to Seventeen Sierra, LLC'
