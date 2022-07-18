@@ -1,5 +1,5 @@
 ---
-title: Log4j Analysis
+title: Long live Log4j
 layout: PostLayout
 date: '2021-12-01'
 colors: colors-c
