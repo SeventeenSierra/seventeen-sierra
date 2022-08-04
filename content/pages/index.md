@@ -316,6 +316,9 @@ sections:
       actions:
         justifyContent: flex-start
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 title: ' '
 ---
