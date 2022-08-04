@@ -13,7 +13,7 @@ sections:
       - type: Button
         label: Get Started
         url: /advisory
-        style: primary
+        style: secondary
         iconPosition: right
         icon: arrowRight
         showIcon: true
