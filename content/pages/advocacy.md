@@ -8,7 +8,7 @@ metaTags: []
 title: Advocacy
 sections:
   - type: FeaturedItemsSection
-    colors: colors-d
+    colors: colors-e
     elementId: ''
     title: Advocacy
     subtitle: 'The things that matter to Seventeen Sierra, LLC'
@@ -17,8 +17,8 @@ sections:
         title: Security will never be done
         text: >
           Security is an ongoing process that takes ongoing resources. The
-          threats are constantly changing requiring the measures to protect
-          against the threats to also have to change. 
+          threats are constantly changing requiring the measures that protect
+          against the threats to also have to change.
         styles:
           title:
             textAlign: left
@@ -45,16 +45,18 @@ sections:
         elementId: ''
         title: Security should be human centered
         subtitle: ''
-        text: |
-          Security should never be a blocker to a system. 
+        text: >
+          People are the ones using systems. Security should be centered around
+          the people; and people shouldn't have to be overly burdened to have to
+          centerd themselves around security. 
         actions: []
         styles:
           self:
             textAlign: left
     actions: []
     columns: 3
-    spacingX: 16
-    spacingY: 16
+    spacingX: 43
+    spacingY: 41
     enableHover: false
     styles:
       self:

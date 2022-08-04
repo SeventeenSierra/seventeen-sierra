@@ -5,9 +5,8 @@ numOfPostsPerPage: 10
 postFeed:
   showDate: true
   showAuthor: false
-  showExcerpt: false
+  showExcerpt: true
   showReadMoreLink: true
-  readMoreLinkLabel: Join adventure
   variant: variant-c
   colors: colors-d
   styles:
@@ -18,16 +17,16 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  readMoreLinkLabel: Click to read more
 styles:
   title:
     textAlign: center
 bottomSections:
   - type: ContactSection
     colors: colors-e
-    title: Join our club
-    text: >
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
+    title: Sign up for post updates
+    text: |
+      We will notify you every time there is a new or  updated post. 
     form:
       type: FormBlock
       elementId: sign-up-form

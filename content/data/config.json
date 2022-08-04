@@ -68,7 +68,7 @@
             },
             {
                 "type": "Link",
-                "label": "Advocavy",
+                "label": "Advocacy",
                 "altText": "",
                 "url": "/advocacy",
                 "showIcon": false,
@@ -81,7 +81,7 @@
             {
                 "type": "Button",
                 "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:info@seventeensierra.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
@@ -106,7 +106,7 @@
     "footer": {
         "variant": "variant-b",
         "colors": "colors-d",
-        "title": "Say hello",
+        "title": "Seventeen Sierra, LLC",
         "contacts": {
             "title": "Contact details",
             "phoneAltText": "Our phone",

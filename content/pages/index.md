@@ -13,7 +13,7 @@ sections:
       - type: Button
         label: Get Started
         url: /advisory
-        style: primary
+        style: secondary
         iconPosition: right
         icon: arrowRight
         showIcon: true
@@ -316,6 +316,9 @@ sections:
       actions:
         justifyContent: flex-start
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 title: ' '
 ---

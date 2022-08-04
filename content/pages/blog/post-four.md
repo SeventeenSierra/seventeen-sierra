@@ -1,12 +1,9 @@
 ---
-title: Log4j Analysis
+title: Long live Log4j
 layout: PostLayout
 date: '2021-12-01'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
-excerpt: >-
-  We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
-  the sea has to offer, nothing more, and no cheating.
 featuredImage:
   type: ImageBlock
   url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
@@ -60,6 +57,9 @@ bottomSections:
         borderWidth: 1
         borderStyle: solid
 addTitleSuffix: true
+excerpt: >-
+  The impact of Log4j came with a bang without much of a blast; but its ripple
+  affects will be strong for a long time. 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.

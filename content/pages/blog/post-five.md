@@ -4,8 +4,8 @@ layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/hugh-saturation.json
 excerpt: >-
-  Knowing how to feed yourself in the wild is one of the greatest skills you
-  could ever have.
+  As we go into an assumed breach era, we have to go into protecting an
+  environment with a more aware mindset.
 featuredImage:
   type: ImageBlock
   url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg

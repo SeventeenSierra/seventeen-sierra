@@ -4,8 +4,9 @@ layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Just like everyone thinks their baby is the best looking, everyone thinks
+  their system is the most important ... that is, until they need to come up
+  with the money to come up with resources to secure it.
 featuredImage:
   type: ImageBlock
   url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
