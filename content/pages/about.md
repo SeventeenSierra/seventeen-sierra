@@ -1,5 +1,5 @@
 ---
-title: About
+title: Seventeen Sierra - About
 layout: PageLayout
 sections:
   - type: DividerSection
