@@ -6,7 +6,7 @@ colors: colors-c
 author: content/data/team/hilary-ouse.json
 featuredImage:
   type: ImageBlock
-  url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
+  url: /images/josh-riemer-flRN6KYpl1A-unsplash.jpg
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
