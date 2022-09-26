@@ -12,7 +12,7 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: /images/josh-riemer-flRN6KYpl1A-unsplash.jpg
+  url: /images/rodion-kutsaev-0VGG7cqTwCo-unsplash.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
