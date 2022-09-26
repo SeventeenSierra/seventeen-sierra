@@ -9,7 +9,7 @@ excerpt: >-
   with the money to come up with resources to secure it.
 featuredImage:
   type: ImageBlock
-  url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
+  url: /images/adi-goldstein-EUsVwEOsblE-unsplash.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
