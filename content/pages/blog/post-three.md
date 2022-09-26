@@ -8,7 +8,7 @@ excerpt: >-
   if anybody tells you differently; they're fooling themselves.
 featuredImage:
   type: ImageBlock
-  url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
+  url: /images/img-76.jpg
   altText: Post Image
 media:
   type: ImageBlock
