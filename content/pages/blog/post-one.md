@@ -8,7 +8,7 @@ excerpt: >-
   Program and it takes fundamenntalss to already be established in practiced.
 featuredImage:
   type: ImageBlock
-  url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
+  url: /images/mike-kononov-lFv0V3_2H6s-unsplash-2bbd914d.jpg
   altText: Post thumbnail image
 media:
   type: ImageBlock
