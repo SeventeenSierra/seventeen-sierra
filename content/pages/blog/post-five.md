@@ -12,7 +12,7 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/josh-riemer-flRN6KYpl1A-unsplash.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
