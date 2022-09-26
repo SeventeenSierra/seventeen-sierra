@@ -1,7 +1,7 @@
 ---
 title: Long live Log4j
 layout: PostLayout
-date: '2022-09-01'
+date: '2022-09-09'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
 featuredImage:
