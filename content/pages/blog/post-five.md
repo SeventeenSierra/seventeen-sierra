@@ -8,7 +8,7 @@ excerpt: >-
   environment with a more aware mindset.
 featuredImage:
   type: ImageBlock
-  url: /images/christina-wocintechchat-com-x29idTmYGXg-unsplash-c1268128.jpg
+  url: /images/rodion-kutsaev-0VGG7cqTwCo-unsplash.jpg
   altText: Post Image
 media:
   type: ImageBlock
