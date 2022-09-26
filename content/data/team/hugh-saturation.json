@@ -1,8 +1,8 @@
 {
     "type": "Person",
-    "firstName": "Hugh",
-    "lastName": "Saturation",
-    "role": "Senior fisherman + delivery guy",
+    "firstName": "Alyssa",
+    "lastName": "Feola",
+    "role": "Owner",
     "image": {
         "type": "ImageBlock",
         "altText": "Hugh Saturation photo"

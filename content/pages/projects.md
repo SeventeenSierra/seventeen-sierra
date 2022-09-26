@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Projects
+title: Seventeen Sierra - Projects
 sections:
   - type: HeroSection
     elementId: homepage-hero-1

@@ -1,8 +1,8 @@
 {
     "type": "Person",
-    "firstName": "Dianne",
-    "lastName": "Ameter",
-    "role": "Senior fisherwoman",
+    "firstName": "Alyssa",
+    "lastName": "Feola",
+    "role": "Owner",
     "image": {
         "type": "ImageBlock",
         "altText": "Dianne Ameter photo"

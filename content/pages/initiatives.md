@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Initiatives
+title: Seventeen Sierra - Initiatives
 sections:
   - type: HeroSection
     colors: colors-d
