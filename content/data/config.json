@@ -77,18 +77,7 @@
                 "elementId": ""
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Button",
-                "label": "Contact us",
-                "url": "mailto:info@seventeensierra.com",
-                "altText": "Contact us",
-                "style": "secondary",
-                "showIcon": true,
-                "icon": "arrowRight",
-                "iconPosition": "right"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "narrow"
