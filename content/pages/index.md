@@ -244,31 +244,6 @@ sections:
     subtitle: Creativity is the key to cybersecurity
     items:
       - type: FeaturedItem
-        title: Initiatives
-        text: >+
-          Seventeen Sierra, LLC chooses to invest time, energy and resources on
-          initiatives that need our support.
-
-
-          *   Getting & keeping more women in Cybersecurity
-
-
-          *   Briding the gap between security and compliance
-
-
-          *   Automating cybersecurity as much as possible
-
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /initiatives
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: Advocacy
         text: >+
           Seventeen Sierra, LLC  has several core beliefs that warrant having
@@ -290,6 +265,31 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /advocacy
+            style: secondary
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Initiatives
+        text: >+
+          Seventeen Sierra, LLC chooses to invest time, energy and resources on
+          initiatives that need our support.
+
+
+          *   Getting & keeping more women in Cybersecurity
+
+
+          *   Briding the gap between security and compliance
+
+
+          *   Automating cybersecurity as much as possible
+
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /initiatives
             style: secondary
         styles:
           self:
