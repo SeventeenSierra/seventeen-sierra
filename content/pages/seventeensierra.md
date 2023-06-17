@@ -70,7 +70,9 @@ sections:
     colors: colors-d
     elementId: ''
     title: Discover Your Cybersecurity Strategy Today
-    subtitle: ''
+    subtitle: >-
+      Empowering businesses through intelligent decision to support their cyber
+      mission
     items:
       - type: FeaturedItem
         title: CISO Advisory
