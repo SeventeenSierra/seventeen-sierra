@@ -70,9 +70,7 @@ sections:
     variant: variant-c
     colors: colors-c
     title: Alyssa Feola (she/they)
-    subtitle: >-
-      We’re a group of proffesional fisherman & friends, who love exploring the
-      seas and sharing our experiences with the world.
+    subtitle: A change-maker cyber expert focused on people
     people:
       - content/data/team/desmond-eagle.json
       - content/data/team/dianne-ameter.json
