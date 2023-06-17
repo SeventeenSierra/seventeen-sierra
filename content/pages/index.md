@@ -140,13 +140,7 @@ sections:
 
       She's more than just a cybersecurity advisor - she's a trusted partner in
       navigating the rapidly evolving digital landscape.
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
+    actions: []
     media:
       type: ImageBlock
       url: /images/profilepicture-removebg-preview-a19e698f.png
