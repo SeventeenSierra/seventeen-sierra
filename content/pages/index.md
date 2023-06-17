@@ -48,7 +48,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: The Section Title
+    title: Forward-Thinking Cybersecurity
     subtitle: ''
     text: >
       At Seventeen Sierra, we excel in providing expert advice and cutting-edge
