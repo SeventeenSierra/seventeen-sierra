@@ -34,6 +34,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: 'Pioneering cybersecurity, Empowering Businesses'
   - type: QuoteSection
     colors: colors-b
     quote: >-
