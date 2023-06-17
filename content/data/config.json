@@ -64,12 +64,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Writings",
-                "url": "/blog",
-                "altText": ""
             }
         ],
         "socialLinks": [
