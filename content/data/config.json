@@ -35,16 +35,6 @@
                 "label": "Writings",
                 "url": "/blog",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "altText": "",
-                "url": "/projects",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "secondaryLinks": [],
