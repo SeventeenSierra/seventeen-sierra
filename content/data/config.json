@@ -42,14 +42,7 @@
             "address": "Washington, DC",
             "addressAltText": "Our address"
         },
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
