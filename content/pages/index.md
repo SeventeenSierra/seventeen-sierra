@@ -7,14 +7,7 @@ sections:
     backgroundSize: inset
     title: Forward-Thinking Cybersecurity
     subtitle: 'Pioneering cybersecurity, Empowering Businesses'
-    actions:
-      - type: Button
-        label: Get Started
-        url: /advisory
-        style: secondary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
+    actions: []
     backgroundImage:
       type: BackgroundImage
       url: /images/OR69HE0.jpg
