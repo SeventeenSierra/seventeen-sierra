@@ -69,7 +69,6 @@ sections:
   - type: FeaturedPeopleSection
     variant: variant-c
     colors: colors-c
-    title: Alyssa Feola (she/they)
     subtitle: A change-maker cyber expert focused on people
     people:
       - content/data/team/desmond-eagle.json
