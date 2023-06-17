@@ -82,13 +82,7 @@ sections:
           business or products may face and develop tailored strategies to
           mitigate these risks, safeguarding your systems, data, and reputation
           from potential cyber attacks.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: secondary
+        actions: []
         styles:
           self:
             textAlign: left
