@@ -73,7 +73,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Faster
+        title: CISO Advisory
         text: >
           This service provides executive-level guidance on shaping and
           executing effective cybersecurity strategies, addressing both tactical
