@@ -11,13 +11,15 @@ sections:
     colors: colors-d
     variant: variant-a
     title: Forward-Thinking Cybersecurity
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
-
-
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+    text: >
+      At Seventeen Sierra, we excel in providing expert advice and cutting-edge
+      cybersecurity solutions. As a beacon of innovative practices, we redefine
+      what it means to be secure in today's digital age. We understand your
+      desire for excellence, efficiency, and unwavering security. Through our
+      unique approach, we can translate your aspirations into reality, helping
+      you navigate the cybersecurity landscape with confidence and peace of
+      mind. With Seventeen Sierra, you are investing in a future where safety
+      meets innovation.
     styles:
       self:
         height: auto
