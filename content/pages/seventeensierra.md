@@ -69,7 +69,7 @@ sections:
   - type: FeaturedPeopleSection
     variant: variant-c
     colors: colors-c
-    title: Our Team
+    title: Alyssa Feola (she/they)
     subtitle: >-
       We’re a group of proffesional fisherman & friends, who love exploring the
       seas and sharing our experiences with the world.
