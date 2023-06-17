@@ -117,7 +117,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: We do fishing differently
+    title: Alyssa Feola (she/they)
     subtitle: A change-maker cyber expert focused on people
     text: >
       Alyssa Feola, a celebrated Cybersecurity Advisor, brings over a decade of
