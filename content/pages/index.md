@@ -116,7 +116,7 @@ sections:
   - type: HeroSection
     colors: colors-d
     elementId: ''
-    backgroundSize: full
+    backgroundSize: inset
     title: Alyssa Feola (she/they)
     subtitle: A change-maker cyber expert focused on people
     text: >
