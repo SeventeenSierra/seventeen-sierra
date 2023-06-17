@@ -118,7 +118,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: We do fishing differently
-    subtitle: Fresh. Better. Faster.
+    subtitle: A change-maker cyber expert focused on people
     text: >
       Alyssa Feola, a celebrated Cybersecurity Advisor, brings over a decade of
       rich experience in the field of cybersecurity.
