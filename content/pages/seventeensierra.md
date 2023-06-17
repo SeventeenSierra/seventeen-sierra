@@ -148,7 +148,7 @@ sections:
         justifyContent: flex-start
   - type: FeaturedPeopleSection
     variant: variant-c
-    colors: colors-c
+    colors: colors-a
     people:
       - content/data/team/desmond-eagle.json
       - content/data/team/dianne-ameter.json
