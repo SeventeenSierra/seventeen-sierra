@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Seventeen Sierra
+title: Home
 sections:
   - type: HeroSection
     colors: colors-d
