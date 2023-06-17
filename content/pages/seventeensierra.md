@@ -42,7 +42,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: We do fishing differently
-    subtitle: Fresh. Better. Faster.
+    subtitle: 'Pioneering cybersecurity, Empowering Businesses'
     text: >
       At Seventeen Sierra, we excel in providing expert advice and cutting-edge
       cybersecurity solutions. As a beacon of innovative practices, we redefine
