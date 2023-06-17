@@ -4,7 +4,7 @@ sections:
   - type: TextSection
     colors: colors-d
     elementId: ''
-    variant: variant-b
+    variant: variant-a
     title: Forward-Thinking Cybersecurity
     subtitle: 'Pioneering cybersecurity, Empowering Businesses'
     text: >
