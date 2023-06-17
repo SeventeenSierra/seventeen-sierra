@@ -90,16 +90,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Initiatives",
-                "altText": "",
-                "url": "/initiatives",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "socialLinks": [
