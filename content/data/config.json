@@ -48,12 +48,6 @@
                 "label": "Home",
                 "url": "/",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": ""
             }
         ],
         "socialLinks": [
