@@ -22,13 +22,7 @@ sections:
       you navigate the cybersecurity landscape with confidence and peace of
       mind. With Seventeen Sierra, you are investing in a future where safety
       meets innovation.
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
+    actions: []
     media:
       type: ImageBlock
       url: /images/e409dc07e5e878329aca93fd4aa1137c.jpg
