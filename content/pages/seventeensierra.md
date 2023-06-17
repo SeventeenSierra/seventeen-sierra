@@ -79,13 +79,7 @@ sections:
           executing effective cybersecurity strategies, addressing both tactical
           and strategic security challenges that align with your business
           objectives.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: secondary
+        actions: []
         styles:
           self:
             textAlign: left
