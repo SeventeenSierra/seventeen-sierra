@@ -76,7 +76,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Focused
+        title: Risk Mitigation Strategy
         text: >
           This service helps identify potential cybersecurity risks your
           business or products may face and develop tailored strategies to
