@@ -53,7 +53,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/e409dc07e5e878329aca93fd4aa1137c.jpg
       altText: Hero image
     backgroundImage: null
     styles:
