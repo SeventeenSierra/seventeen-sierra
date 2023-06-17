@@ -1,0 +1,11 @@
+{
+    "type": "Person",
+    "firstName": "Alyssa",
+    "lastName": "Feola",
+    "role": "Cybersecurity Advisor",
+    "bio": "Alyssa Feola, a celebrated Cybersecurity Advisor, brings over a decade of rich experience in the field of cybersecurity.\n\nShe has been instrumental in rationalizing, modernizing, and enhancing the resilience of infrastructure and software, enabling the workforce to efficiently execute their tasks simultaneously and helping organizations streamline their operations securely and efficiently.\n\nWith a career spanning over 15 years, Alyssa brings a rich blend of public and private sector experience, making her an invaluable asset in the constantly evolving world of cybersecurity. In her Federal positions, she played a pivotal role in aligning the procurement and security processes to reduce friction and delivery capabilities faster. In her Consultant positions, she has focused on securing assets while facilitating a seamless transition to advanced IT ecosystems for the organization.\n\nShe's more than just a cybersecurity advisor - she's a trusted partner in navigating the rapidly evolving digital landscape.\n",
+    "image": {
+        "url": "/images/profilepicture-removebg-preview.png",
+        "altText": "Person photo"
+    }
+}

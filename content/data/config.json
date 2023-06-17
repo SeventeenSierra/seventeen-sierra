@@ -7,76 +7,7 @@
         "primaryColors": "colors-d",
         "secondaryColors": "colors-d",
         "isTitleVisible": false,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Advisory",
-                "altText": "",
-                "url": "/advisory",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Writings",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "altText": "",
-                "url": "/projects",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Presentations",
-                "altText": "",
-                "url": "/presentations",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Initiatives",
-                "altText": "",
-                "url": "/initiatives",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Advocacy",
-                "altText": "",
-                "url": "/advocacy",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [],
         "styles": {
             "self": {
@@ -90,12 +21,12 @@
             "caption": "Caption of the image",
             "elementId": ""
         },
-        "title": "Seventeen Sierra, LLC"
+        "title": "Seventeen Sierra"
     },
     "footer": {
         "variant": "variant-b",
         "colors": "colors-d",
-        "title": "Seventeen Sierra, LLC",
+        "title": "Seventeen Sierra",
         "contacts": {
             "title": "Contact details",
             "phoneAltText": "Our phone",
@@ -104,76 +35,7 @@
             "address": "Washington, DC",
             "addressAltText": "Our address"
         },
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Advisory",
-                "altText": "",
-                "url": "/advisory",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Writings",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "altText": "",
-                "url": "/projects",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Presentations",
-                "altText": "",
-                "url": "/presentations",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Initiatives",
-                "altText": "",
-                "url": "/initiatives",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Advocacy",
-                "altText": "",
-                "url": "/advocacy",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
