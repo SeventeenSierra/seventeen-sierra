@@ -7,8 +7,7 @@ socialImage: null
 metaTags: []
 title: Seventeen Sierra
 sections:
-  - type: HeroSection
-    colors: colors-d
+  - colors: colors-d
     elementId: ''
     backgroundSize: full
     title: Forward-Thinking Cybersecurity
@@ -24,10 +23,9 @@ sections:
       meets innovation.
     actions: []
     media:
-      type: ImageBlock
       url: /images/e409dc07e5e878329aca93fd4aa1137c.jpg
       altText: Hero image
-    backgroundImage: null
+      type: ImageBlock
     styles:
       self:
         height: auto
@@ -48,19 +46,19 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: QuoteSection
-    colors: colors-b
+    type: HeroSection
+  - colors: colors-b
     quote: >
       "Everyone hates compliance until they start having to do risk management.
       Compliance is easy compared to having to do critical thinking"
     name: ''
     title: ''
     backgroundImage:
-      type: BackgroundImage
       url: /images/OR69HE0.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 70
+      type: BackgroundImage
     styles:
       self:
         height: auto
@@ -77,16 +75,15 @@ sections:
         textAlign: left
       title:
         textAlign: left
-  - type: FeaturedItemsSection
-    colors: colors-d
+    type: QuoteSection
+  - colors: colors-d
     elementId: ''
     title: Discover Your Cybersecurity Strategy Today
     subtitle: >-
       Empowering businesses through intelligent decision to support their cyber
       mission
     items:
-      - type: FeaturedItem
-        title: CISO Advisory
+      - title: CISO Advisory
         text: >
           This service provides executive-level guidance on shaping and
           executing effective cybersecurity strategies, addressing both tactical
@@ -96,8 +93,8 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: IT Security Policy Development
+        type: FeaturedItem
+      - title: IT Security Policy Development
         text: >
           This entails the creation of comprehensive, custom-made security
           policies that define your organization's standards for data
@@ -108,8 +105,8 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: Risk Mitigation Strategy
+        type: FeaturedItem
+      - title: Risk Mitigation Strategy
         text: >
           This service helps identify potential cybersecurity risks your
           business or products may face and develop tailored strategies to
@@ -119,6 +116,7 @@ sections:
         styles:
           self:
             textAlign: left
+        type: FeaturedItem
     actions: []
     columns: 3
     spacingX: 16
@@ -140,14 +138,15 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: FeaturedPeopleSection
+    type: FeaturedItemsSection
+  - colors: colors-a
     variant: variant-c
-    colors: colors-a
+    actions: []
     people:
-      - content/data/team/desmond-eagle.json
-      - content/data/team/dianne-ameter.json
-      - content/data/team/hugh-saturation.json
-      - content/data/team/hilary-ouse.json
+      - null
+      - null
+      - null
+      - null
       - content/data/team/person-frrxp3513.json
     styles:
       self:
@@ -165,56 +164,55 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: left
-  - type: ContactSection
-    colors: colors-d
+    type: FeaturedPeopleSection
+  - colors: colors-d
     title: Get a quote or set up a consultation
     text: >
       Have a question we can answer or a challenge we can help you solve? We’d
       love to connect! Send us a message and we’ll be in touch.
     form:
-      type: FormBlock
-      elementId: sign-up-form
-      action: /.netlify/functions/submission_created
-      destination: ''
       fields:
-        - type: TextFormControl
-          name: firstName
+        - name: firstName
           label: First Name
           hideLabel: true
           placeholder: First Name
           isRequired: false
           width: 1/2
-        - type: TextFormControl
-          name: lastName
+          type: TextFormControl
+        - name: lastName
           label: Last Name
           hideLabel: true
           placeholder: Last Name
           isRequired: false
           width: 1/2
-        - type: EmailFormControl
-          name: email
+          type: TextFormControl
+        - name: email
           label: Email
           hideLabel: true
           placeholder: Email
           isRequired: true
           width: full
-        - type: TextFormControl
-          name: address
+          type: EmailFormControl
+        - name: address
           label: Address
           hideLabel: true
           placeholder: Address
           isRequired: true
           width: full
-        - type: CheckboxFormControl
-          name: updatesConsent
+          type: TextFormControl
+        - name: updatesConsent
           label: Sign me up to recieve updates
           isRequired: false
           width: full
+          type: CheckboxFormControl
       submitLabel: Submit form
+      elementId: sign-up-form
+      action: /.netlify/functions/submission_created
+      destination: ''
       styles:
         submitLabel:
           textAlign: center
-    media: null
+      type: FormBlock
     styles:
       self:
         height: auto
@@ -231,4 +229,5 @@ sections:
         textAlign: center
       text:
         textAlign: center
+    type: ContactSection
 ---
