@@ -2,7 +2,7 @@
 layout: PageLayout
 sections:
   - type: TextSection
-    colors: colors-c
+    colors: colors-d
     elementId: ''
     variant: variant-a
     title: Forward-Thinking Cybersecurity
