@@ -50,7 +50,7 @@ sections:
   - colors: colors-b
     quote: >
       "Everyone hates compliance until they start having to do risk management.
-      Compliance is easy compared to having to do critical thinking"
+      Compliance is easy compared to having to do critical thinking."
     name: ''
     title: ''
     backgroundImage:
