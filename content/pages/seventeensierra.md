@@ -46,7 +46,7 @@ sections:
     title: ''
     backgroundImage:
       type: BackgroundImage
-      url: /images/bg.jpg
+      url: /images/OR69HE0.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 70
