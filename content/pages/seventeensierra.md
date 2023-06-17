@@ -84,7 +84,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Smarter
+        title: IT Security Policy Development
         text: >
           This entails the creation of comprehensive, custom-made security
           policies that define your organization's standards for data
