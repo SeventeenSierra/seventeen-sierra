@@ -69,7 +69,6 @@ sections:
   - type: FeaturedPeopleSection
     variant: variant-c
     colors: colors-c
-    subtitle: A change-maker cyber expert focused on people
     people:
       - content/data/team/desmond-eagle.json
       - content/data/team/dianne-ameter.json
