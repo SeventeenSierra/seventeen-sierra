@@ -96,7 +96,7 @@ sections:
         textAlign: left
   - type: ContactSection
     colors: colors-d
-    title: Join our club
+    title: Get a quote or set up a consultation
     text: >-
       We will notify you every time a shipment is heading to your neighborhood,
       and you could immediatly let us know if you want in or not
