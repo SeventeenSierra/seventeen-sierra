@@ -59,7 +59,7 @@ sections:
             textAlign: left
         featuredImage:
           type: ImageBlock
-          url: /images/45b92587dcdfb043f5676f0802d9a49f.jpg
+          url: /images/999ff09d89142834b0c92913aadf4fee.jpg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
