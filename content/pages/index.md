@@ -5,7 +5,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-e
     backgroundSize: inset
-    title: Cybersecurity Advisory
+    title: Forward-Thinking Cybersecurity
     subtitle: >-
       Central hub for advice, musings and opinions related to cybersecurity.
       Content generated from a perspective of cyber risk management.
