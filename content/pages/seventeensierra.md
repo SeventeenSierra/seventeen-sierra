@@ -7,36 +7,6 @@ socialImage: null
 metaTags: []
 title: Seventeen Sierra
 sections:
-  - type: TextSection
-    colors: colors-d
-    variant: variant-a
-    title: Forward-Thinking Cybersecurity
-    text: >
-      At Seventeen Sierra, we excel in providing expert advice and cutting-edge
-      cybersecurity solutions. As a beacon of innovative practices, we redefine
-      what it means to be secure in today's digital age. We understand your
-      desire for excellence, efficiency, and unwavering security. Through our
-      unique approach, we can translate your aspirations into reality, helping
-      you navigate the cybersecurity landscape with confidence and peace of
-      mind. With Seventeen Sierra, you are investing in a future where safety
-      meets innovation.
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-36
-          - pb-56
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    subtitle: 'Pioneering cybersecurity, Empowering Businesses'
   - type: HeroSection
     colors: colors-d
     elementId: ''
