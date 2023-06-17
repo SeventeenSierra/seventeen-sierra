@@ -41,7 +41,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: We do fishing differently
+    title: Forward-Thinking Cybersecurity
     subtitle: 'Pioneering cybersecurity, Empowering Businesses'
     text: >
       At Seventeen Sierra, we excel in providing expert advice and cutting-edge
