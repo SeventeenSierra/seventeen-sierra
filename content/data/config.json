@@ -54,16 +54,6 @@
                 "label": "About",
                 "url": "/about",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Advisory",
-                "altText": "",
-                "url": "/advisory",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "socialLinks": [
