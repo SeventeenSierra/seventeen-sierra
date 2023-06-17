@@ -35,7 +35,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
-    title: Key value propositions
+    title: Discover Your Cybersecurity Strategy Today
     subtitle: ''
     items:
       - type: FeaturedItem
