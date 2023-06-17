@@ -97,9 +97,9 @@ sections:
   - type: ContactSection
     colors: colors-d
     title: Get a quote or set up a consultation
-    text: >-
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
+    text: >
+      Have a question we can answer or a challenge we can help you solve? We’d
+      love to connect! Send us a message and we’ll be in touch.
     form:
       type: FormBlock
       elementId: sign-up-form
