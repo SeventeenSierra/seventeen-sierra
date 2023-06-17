@@ -32,46 +32,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: HeroSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: full
-    title: "Seventeen Sierra\_ \_ \_ \_ \_ \_17Sierra || 17S"
-    text: >
-      Around 2015 (give or take a few years) the United States Air Force used
-      the speciality code designator "17S" to describe cyber-skilled officers.
-    actions:
-      - type: Button
-        label: View Overview
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /about
-    media:
-      type: ImageBlock
-      url: /images/17S_SM-Circle.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeatureHighlightSection
     colors: colors-d
     elementId: ''
