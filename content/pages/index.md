@@ -65,13 +65,7 @@ sections:
           protection, addressing areas such as access control, incident
           response, and user behavior, ensuring a robust defense against
           potential threats.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: secondary
+        actions: []
         styles:
           self:
             textAlign: left
