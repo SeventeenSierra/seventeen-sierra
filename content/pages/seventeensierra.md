@@ -76,6 +76,7 @@ sections:
       - content/data/team/dianne-ameter.json
       - content/data/team/hugh-saturation.json
       - content/data/team/hilary-ouse.json
+      - content/data/team/person-frrxp3513.json
     styles:
       self:
         height: auto
