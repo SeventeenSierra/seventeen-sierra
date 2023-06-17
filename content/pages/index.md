@@ -129,7 +129,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/profilepicture-removebg-preview.png
+      url: /images/profilepicture-removebg-preview-a19e698f.png
       altText: Hero image
     backgroundImage: null
     styles:
