@@ -50,13 +50,15 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      At Seventeen Sierra, we excel in providing expert advice and cutting-edge
+      cybersecurity solutions. As a beacon of innovative practices, we redefine
+      what it means to be secure in today's digital age. We understand your
+      desire for excellence, efficiency, and unwavering security. Through our
+      unique approach, we can translate your aspirations into reality, helping
+      you navigate the cybersecurity landscape with confidence and peace of
+      mind. With Seventeen Sierra, you are investing in a future where safety
+      meets innovation.
     styles:
       self:
         height: auto
