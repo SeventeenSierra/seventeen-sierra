@@ -91,10 +91,12 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Smarter
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          This entails the creation of comprehensive, custom-made security
+          policies that define your organization's standards for data
+          protection, addressing areas such as access control, incident
+          response, and user behavior, ensuring a robust defense against
+          potential threats.
         actions:
           - type: Button
             label: Learn more
