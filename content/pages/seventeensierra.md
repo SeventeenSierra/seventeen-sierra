@@ -39,9 +39,9 @@ sections:
     subtitle: 'Pioneering cybersecurity, Empowering Businesses'
   - type: QuoteSection
     colors: colors-b
-    quote: >-
-      "This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her."
+    quote: >
+      "Everyone hates compliance until they start having to do risk management.
+      Compliance is easy compared to having to do critical thinking"
     name: ''
     title: ''
     backgroundImage:
