@@ -139,32 +139,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - colors: colors-a
-    variant: variant-c
-    actions: []
-    people:
-      - null
-      - null
-      - null
-      - null
-      - content/data/team/person-frrxp3513.json
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-36
-          - pb-72
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-    type: FeaturedPeopleSection
   - colors: colors-d
     title: Get a quote or set up a consultation
     text: >
@@ -207,8 +181,7 @@ sections:
           type: CheckboxFormControl
       submitLabel: Submit form
       elementId: sign-up-form
-      action: >-
-        js.hsforms.net/forms/embed/v2.js
+      action: js.hsforms.net/forms/embed/v2.js
       destination: ''
       styles:
         submitLabel:
@@ -231,4 +204,30 @@ sections:
       text:
         textAlign: center
     type: ContactSection
+  - colors: colors-a
+    variant: variant-c
+    actions: []
+    people:
+      - null
+      - null
+      - null
+      - null
+      - content/data/team/person-frrxp3513.json
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-36
+          - pb-72
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+    type: FeaturedPeopleSection
 ---
