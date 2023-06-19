@@ -193,7 +193,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: address
+        - name: Number
           label: phone number
           hideLabel: true
           placeholder: Phone Number
