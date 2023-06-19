@@ -208,9 +208,7 @@ sections:
       submitLabel: Submit form
       elementId: sign-up-form
       action: >-
-        js.hsforms.net/forms/embed/v2.js"></script><script> 
-        hbspt.forms.create({    region: "na1",    portalId: "22448098",   
-        formId: "18e42a0a-405d-4db0-a2cd-532067b649bc"  });</script>
+        js.hsforms.net/forms/embed/v2.js
       destination: ''
       styles:
         submitLabel:
