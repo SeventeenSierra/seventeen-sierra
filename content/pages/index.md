@@ -196,7 +196,7 @@ sections:
         - name: address
           label: phone number
           hideLabel: true
-          placeholder: Address
+          placeholder: Phone Number
           isRequired: true
           width: full
           type: TextFormControl
