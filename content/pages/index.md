@@ -50,7 +50,7 @@ sections:
   - colors: colors-b
     quote: >
       "Everyone hates compliance until they start having to do risk management.
-      Compliance is easy compared to having to do critical thinking"
+      Compliance is easy compared to having to do critical thinking."
     name: ''
     title: ''
     backgroundImage:
@@ -165,69 +165,4 @@ sections:
         fontStyle: normal
         textAlign: left
     type: FeaturedPeopleSection
-  - colors: colors-d
-    title: Get a quote or set up a consultation
-    text: >
-      Have a question we can answer or a challenge we can help you solve? We’d
-      love to connect! Send us a message and we’ll be in touch.
-    form:
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: Submit form
-      elementId: sign-up-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      styles:
-        submitLabel:
-          textAlign: center
-      type: FormBlock
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-    type: ContactSection
 ---
