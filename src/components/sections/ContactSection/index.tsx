@@ -25,16 +25,23 @@ export default function ContactSection(props) {
                     {form && (
                         <div className={classNames('sb-contact-section-form', { 'mt-12': title || text })}>
                             <FormBlock {...form} className="inline-block w-full" data-sb-field-path=".form" />
+                            <script>
+                                    hbspt.forms.create({
+                                        region: "na1",
+                                        portalId: "22448098",
+                                        formId: "18e42a0a-405d-4db0-a2cd-532067b649bc"
+                                    });
+                                </script>
+                            </div>
+                        )}
+                    </div>
+                    {media && (
+                        <div className="flex-1 w-full">
+                            <ContactMedia media={media} />
                         </div>
                     )}
                 </div>
-                {media && (
-                    <div className="flex-1 w-full">
-                        <ContactMedia media={media} />
-                    </div>
-                )}
-            </div>
-        </Section>
+            </Section>
     );
 }
 
